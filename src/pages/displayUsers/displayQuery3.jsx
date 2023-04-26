@@ -23,12 +23,12 @@ export default function DisplayQuery3() {
 
     useEffect(()=>{
         getUser();
-        console.log(users)
+
     },[])
 
 
   return (
-    users.length==0?      <CircularProgress variant="plain" />:
+    users.length===0?      <CircularProgress variant="plain" />:
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead>

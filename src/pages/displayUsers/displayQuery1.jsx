@@ -16,6 +16,7 @@ export default function DisplayQuery1() {
  
   const {getUserQuery1} = useUser();
   const [users,setUsers] = useState([]);
+  
   async function getUser(){
     const data = await getUserQuery1();
     setUsers(data);
@@ -23,12 +24,11 @@ export default function DisplayQuery1() {
 
     useEffect(()=>{
         getUser();
-        console.log(users)
     },[])
 
 
   return (
-    users.length==0?      <CircularProgress variant="plain" />:
+    users.length===0?      <CircularProgress variant="plain" />:
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead>
