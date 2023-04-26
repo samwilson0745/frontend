@@ -22,20 +22,24 @@ SOURCE FOLDER <br/>
 
 QUERY 1
 
-![Screenshot (115)](https://user-images.githubusercontent.com/83553018/234664310-24c87c0c-3955-45a7-9484-8aaa628ef121.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/83553018/234665773-15d7ccd2-a1aa-4000-9e89-8fa600890124.png)
+
 
 
 QUERY 2
 
-![Screenshot (116)](https://user-images.githubusercontent.com/83553018/234664402-e72b1932-c108-439f-a180-2f47c2324307.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/83553018/234665782-be5680f4-3138-4654-b390-096661e5f257.png)
+
 
 QUERY 3
 
-![Screenshot (117)](https://user-images.githubusercontent.com/83553018/234664458-f12c49ef-3998-4dbf-b4c4-afe411e7a7fd.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/83553018/234665793-1c916ef8-ef7a-43ad-85a6-d06923b43d36.png)
 
 QUERY 4 AND QUERY 5
 
-![Screenshot (118)](https://user-images.githubusercontent.com/83553018/234664495-27745c41-afc1-4b91-ad3b-01ddbda237ce.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/83553018/234665818-ec1fde69-02d9-4f00-a12b-9d8a1101d720.png)
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
