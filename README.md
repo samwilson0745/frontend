@@ -13,6 +13,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Simple project displaying the queries made through an API.
+SOURCE FOLDER 
+-PAGES
+-HOOKS
+
+Pages contains the individual pages that we will show 
+Hooks contains the api calls that are done in the application
 
 
 QUERY 1
